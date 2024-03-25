@@ -1,0 +1,1 @@
+# koishi-plugin-gpt-sovits
